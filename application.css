@@ -5,6 +5,9 @@
   background-color: grey;
   border: 1px solid #f4f4f4;
 }
+.cell:hover {
+    background-color: violet;
+  }
 
 .board-wrapper {
   display: flex;
